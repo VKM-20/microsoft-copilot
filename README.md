@@ -62,18 +62,3 @@ Leadership requires a scalable solution that can:
 | Microsoft Outlook | Stakeholder communication |
 | Microsoft Copilot | AI-powered productivity and automation |
 
----
-
-## Repository Structure
-
-```text
-copilot-workflow-optimization/
-│
-├── README.md
-├── docs/
-├── excel/
-├── powerpoint/
-├── teams/
-├── outlook/
-├── reports/
-└── prompts/
