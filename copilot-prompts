@@ -29,57 +29,21 @@ Review compliance audit data and identify overdue items, recurring audit finding
 Example Analysis Scenarios
 1. Workflow Delay Analysis
 Goal :Identify teams or processes causing approval delays.
-
 Copilot Prompt: Analyze workflow approval data for the last 6 months and identify the top processes contributing to delays. Summarize trends and recommend optimization opportunities.
-
-Expected Insights
-Average approval turnaround time
-Teams with highest delays
-Bottleneck identification
-Workflow improvement opportunities
 
 2. Compliance Gap Analysis
 Goal :Identify missing controls, audit gaps, or overdue compliance tasks.
 Copilot Prompt :Review compliance audit data and identify overdue items, recurring audit findings, and areas with the highest compliance risk.
 
-Expected Insights
-Compliance completion rates
-High-risk audit categories
-Recurring violations
-Teams with overdue remediation items
-
 3. KPI Trend Analysis
 Goal :Analyze operational KPIs and identify performance trends.
 Copilot Prompt :Create charts showing monthly KPI trends for workflow efficiency, reporting accuracy, and compliance completion rates. Highlight any declining metrics.
-
-Expected Insights
-Monthly trend visualization
-Declining or improving KPIs
-Risk indicators
-Performance anomalies
 
 4. Resource Utilization Analysis
 Goal :Understand workload distribution and identify overutilized teams.
 Copilot Prompt :Analyze resource allocation data and identify teams with workload imbalances or operational capacity risks.
 
-Expected Insights
-Resource allocation trends
-Team utilization metrics
-Capacity constraints
-Staffing optimization opportunities
-
 5. Incident and Risk Analysis
 Goal :Identify recurring operational or compliance incidents.
 Copilot Prompt :Analyze incident tracking data and identify recurring operational issues, root causes, and high-risk areas requiring remediation.
 
-Expected Insights
-Incident frequency trends
-Root cause patterns
-High-risk operational areas
-Recommended corrective actions
-Example Copilot-Generated Summary
-The analysis identified workflow approval delays primarily within compliance review processes. Several audit findings remain overdue, increasing operational risk exposure. KPI trends indicate reporting efficiency improved by 15%, while compliance completion rates declined during the last quarter.
-
-Resource analysis shows capacity constraints within the reporting team, contributing to delayed dashboard updates and manual processing overhead.
-
-Recommended actions include workflow automation, centralized KPI tracking, improved audit governance, and additional resource allocation for reporting operations.
